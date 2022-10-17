@@ -19,6 +19,9 @@ This Services does not uses these “cookies” explicitly. However, the app may
 ### Location Information  
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
+### Google Calendar Information
+When a user enables 'Sync with google calendar' feature, we request authorization to make secondary calendars and add/remove events inside them. After the permission is granted, we save the user token into the secure storage and use it to make subsequent requests to the secondary calendar we have created to add, remove or edit events representing prayer times.
+
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
